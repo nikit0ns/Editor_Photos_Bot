@@ -25,7 +25,7 @@ dp = Dispatcher()
 #Головна клавіатура та для кожної функції
 main_buttons = [
         [
-            types.InlineKeyboardButton(text = "🖍 Кольори", callback_data = "btn_colours"), 
+            types.InlineKeyboardButton(text = "🖍 Кольори", callback_data = "btn_colors"), 
             types.InlineKeyboardButton(text = "🗂 Фільтр", callback_data = "btn_filter")
         ],
         [
@@ -186,7 +186,7 @@ async def handle_message(message: types.Message, state):
 async def callback_answer(callback: CallbackQuery):
     await bot.edit_message_reply_markup(chat_id=callback.message.chat.id,message_id=callback.message.message_id,reply_markup=main_keyboard)
 
-@dp.callback_query(Text("btn_colours"))
+@dp.callback_query(Text("btn_colors"))
 async def callback_answer(callback: CallbackQuery):
     await bot.edit_message_reply_markup(chat_id=callback.message.chat.id,message_id=callback.message.message_id,reply_markup=colors_keyboard)
 
