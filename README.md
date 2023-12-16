@@ -15,4 +15,6 @@
 ![Editor_Photos_Bot_Process](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Process.png)
 ![Editor_Photos_Bot_Commands](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Commands.png)
 ![Editor_Photos_Bot_Functions](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Functions.png)
-
+![Editor_Photos_Bot_Filters](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos__Bot_Filters.png)
+![Editor_Photos_Bot_Settings](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Settings.png)
+![Editor_Photos_Bot_Rotate](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Rotate.png)
