@@ -6,3 +6,10 @@
 - :books: The `OpenCV` and `Pillow` libraries for photo processing are connected here.
 - :open_file_folder: The Bot has two commands: `/start` , `/help`.
 - :lock: The Telegram Bot Status: Doesn't Work On Hosting.
+
+---
+
+# Screenshots
+ 
+ ![Editor_Photos_Bot_Main](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Main.png)
+ ![Editor_Photos_Bot_Commands](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Commands.png)
