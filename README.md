@@ -14,4 +14,5 @@
 ![Editor_Photos_Bot_Main](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Main.png)
 ![Editor_Photos_Bot_Process](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Process.png)
 ![Editor_Photos_Bot_Commands](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Commands.png)
+![Editor_Photos_Bot_Functions](https://github.com/nikit0ns/Editor_Photos_Bot/blob/master/Screenshots/Editor_Photos_Bot_Functions.png)
 
